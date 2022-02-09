@@ -1,0 +1,35 @@
+.lightblue{
+  background-color: lightblue;
+}
+#whitetext{
+  color: white;
+}
+#purpletext{
+  color: purple;
+}
+#orangetext{
+  color: orange;
+}
+.yellowhighlight{
+  background-color: yellow;
+}
+.redtext{
+  color: red;
+}
+#darkgreenhighlight{
+  background-color: darkgreen;
+}
+#yellowtext{
+  color: yellow;
+}
+.lightgreenhighlight{
+  background-color: lightgreen;
+}
+a:link{
+  color: green;
+  text-decoration: none;
+}
+a:hover{
+  color: red;
+  text-decoration: underline;
+}
