@@ -1,0 +1,29 @@
+header {
+  color: purple
+}
+header {
+  background-color: yellow
+}
+main {
+  color: yellow;
+  background-color: purple;
+}
+a:link {
+  color: red;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  color: yellow;
+}
+h1 {
+  color: purple;
+  background-color: yellow;
+}
+span {
+  color: orange
+}
+div {
+  background-color: blue;
+}
