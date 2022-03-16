@@ -1,0 +1,63 @@
+header {
+  color: purple
+}
+header {
+  background-color: yellow
+}
+main {
+  color: yellow;
+  background-color: purple;
+}
+a:link {
+  color: red;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  color: yellow;
+}
+h1 {
+  color: purple;
+  background-color: yellow;
+}
+span {
+  color: orange
+}
+div {
+  background-color: blue;
+}
+html {
+  font-family: sans-serif;
+}
+#center {
+  text-align: center;
+}
+h1 {
+  color: orange;
+  font-weight: normal;
+  font-style: italic;
+}
+h2 {
+  color: orange;
+  font-weight: normal;
+  font-style: italic;
+}
+h3 {
+  color: orange;
+  font-weight: normal;
+  font-style: italic;
+}
+h4 {
+  color: orange;
+  font-weight: normal;
+  font-style: italic;
+}
+.imgbox {
+  border: 10px solid black;
+padding: 5px 5px 5px 5px;
+background-color: white;
+}
+html {
+  background-image: url(image4.jpg);
+}
