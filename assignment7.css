@@ -1,0 +1,131 @@
+.redtext {
+  color: red;
+}
+
+body { background-color: #999999; }
+
+.pagetitle {
+  color: lightblue;
+  border: 1px solid darkblue;
+  background: rgb(33,38,125);
+background: linear-gradient(0deg, rgba(33,38,125,1) 0%, rgba(47,97,255,1) 100%);
+}
+
+#wrapper {
+  margin: 1em auto;
+  padding: 0;
+  width: 960px;
+  border: 2px solid darkblue;
+  background-color: #ffffff;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+}
+
+.navigation {
+  padding: 10px;
+  color: lightblue;
+  border: 1px solid darkblue;
+  background: rgb(33,38,125);
+background: linear-gradient(0deg, rgba(33,38,125,1) 0%, rgba(47,97,255,1) 100%);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+}
+
+.box {
+  color: lightblue;
+  border: 1px solid darkblue;
+  background: rgb(33,38,125);
+background: linear-gradient(0deg, rgba(33,38,125,1) 0%, rgba(47,97,255,1) 100%);
+}
+
+a:link {
+  color: lightblue;
+}
+
+a:hover {
+  color: white;
+  background: rgb(33,38,125);
+background: linear-gradient(180deg, rgba(33,38,125,1) 0%, rgba(47,97,255,1) 100%);
+}
+
+a:visited {
+  color: yellow;
+}
+
+#header2 {
+  margin: 10px;
+  padding: 10px;
+  color: blue;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  border-bottom: 2px solid darkblue;
+}
+
+.imgbox {
+  border: 2px solid darkblue;
+  margin: 10px 10px 10px 10px;
+  float: left;
+}
+
+.isufooter {
+  background-color: red;
+}
+
+.maintext {
+  margin: 10px;
+  padding: 10px;
+  width: 960px;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+}
+
+.p1, .p2, .p3, .p4, .p5{
+  margin: 20px;
+}
+
+#alltext {
+  font-family: sans-serif;
+}
+
+footer {
+  background-color: red;
+  border-top: 2px solid darkblue;
+  padding-left: 10px;
+}
+
+.body {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.imgbox2 {
+  border: 2px solid darkblue;
+  margin: 10px 10px 10px 10px;
+  float: right;
+}
+
+.navigation2 {
+  padding: 10px;
+  color: lightblue;
+  border: 1px solid darkblue;
+  background: rgb(33,38,125);
+background: linear-gradient(0deg, rgba(33,38,125,1) 0%, rgba(47,97,255,1) 100%);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+}
+
+#imagecolumns{
+  margin: 1em auto;
+  margin: 10px 10px 10px 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.imgbox3, .imgbox4, .imgbox5 {
+ border: 2px solid darkblue;
+}
